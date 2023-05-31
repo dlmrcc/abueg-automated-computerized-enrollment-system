@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EAFE9B2D-DAA5-4A5A-8712-3B8211252F9D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LOG_IN.CS</RootNamespace>
+    <AssemblyName>LOG_IN.CS</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.2.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BackSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackSubject.Designer.cs">
+      <DependentUpon>BackSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Enrollment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enrollment.Designer.cs">
+      <DependentUpon>Enrollment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forgot Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forgot Password.Designer.cs">
+      <DependentUpon>Forgot Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Permanent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Permanent.Designer.cs">
+      <DependentUpon>Permanent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Permanentrecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Permanentrecords.Designer.cs">
+      <DependentUpon>Permanentrecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PermanentSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PermanentSetting.Designer.cs">
+      <DependentUpon>PermanentSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Requirements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Requirements.Designer.cs">
+      <DependentUpon>Requirements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RequirementsSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RequirementsSetting.Designer.cs">
+      <DependentUpon>RequirementsSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sectioning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sectioning.Designer.cs">
+      <DependentUpon>Sectioning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetioningSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetioningSetting.Designer.cs">
+      <DependentUpon>SetioningSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="student Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student Information.Designer.cs">
+      <DependentUpon>student Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student.Designer.cs">
+      <DependentUpon>Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentRequirement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentRequirement.Designer.cs">
+      <DependentUpon>StudentRequirement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentSetting.Designer.cs">
+      <DependentUpon>StudentSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Subject.Designer.cs">
+      <DependentUpon>Subject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubjectSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubjectSetting.Designer.cs">
+      <DependentUpon>SubjectSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher.Designer.cs">
+      <DependentUpon>Teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherSetting.Designer.cs">
+      <DependentUpon>TeacherSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TranfereeSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TranfereeSetting.Designer.cs">
+      <DependentUpon>TranfereeSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transferee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transferee.Designer.cs">
+      <DependentUpon>Transferee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeOfStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeOfStudent.Designer.cs">
+      <DependentUpon>TypeOfStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Form.Designer.cs">
+      <DependentUpon>User Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserSetting.Designer.cs">
+      <DependentUpon>UserSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YearSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YearSection.Designer.cs">
+      <DependentUpon>YearSection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YearSectionSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YearSectionSetting.Designer.cs">
+      <DependentUpon>YearSectionSetting.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BackSubject.resx">
+      <DependentUpon>BackSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enrollment.resx">
+      <DependentUpon>Enrollment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forgot Password.resx">
+      <DependentUpon>Forgot Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Permanent.resx">
+      <DependentUpon>Permanent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Permanentrecords.resx">
+      <DependentUpon>Permanentrecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PermanentSetting.resx">
+      <DependentUpon>PermanentSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Requirements.resx">
+      <DependentUpon>Requirements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequirementsSetting.resx">
+      <DependentUpon>RequirementsSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sectioning.resx">
+      <DependentUpon>Sectioning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetioningSetting.resx">
+      <DependentUpon>SetioningSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student Information.resx">
+      <DependentUpon>student Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student.resx">
+      <DependentUpon>Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentRequirement.resx">
+      <DependentUpon>StudentRequirement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentSetting.resx">
+      <DependentUpon>StudentSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subject.resx">
+      <DependentUpon>Subject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubjectSetting.resx">
+      <DependentUpon>SubjectSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher.resx">
+      <DependentUpon>Teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherSetting.resx">
+      <DependentUpon>TeacherSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TranfereeSetting.resx">
+      <DependentUpon>TranfereeSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transferee.resx">
+      <DependentUpon>Transferee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeOfStudent.resx">
+      <DependentUpon>TypeOfStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form.resx">
+      <DependentUpon>User Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserSetting.resx">
+      <DependentUpon>UserSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YearSection.resx">
+      <DependentUpon>YearSection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YearSectionSetting.resx">
+      <DependentUpon>YearSectionSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Funny-359-3750.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panitg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qwer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide1 - Copy.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

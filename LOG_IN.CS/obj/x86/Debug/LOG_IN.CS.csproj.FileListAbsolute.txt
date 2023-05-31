@@ -1,0 +1,223 @@
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Forgot_Password.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.LogIn.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Properties.Resources.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.exe
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.pdb
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Homecs.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Home.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Student.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Teacher.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TeacherSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.User_Form.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Enrollment.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanent.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.PermanentSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Requirements.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.RequirementsSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Sectioning.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SetioningSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Subject.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SubjectSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TranfereeSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Transferee.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.UserSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSection.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSectionSetting.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.BackSubject.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentRequirement.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TypeOfStudent.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Form1.resources
+C:\Users\ALWIN2\Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanentrecords.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.exe
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.pdb
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.BackSubject.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Enrollment.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Forgot_Password.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Home.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Homecs.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.LogIn.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanent.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanentrecords.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.PermanentSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Requirements.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.RequirementsSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Sectioning.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SetioningSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Student.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentRequirement.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Subject.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SubjectSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Teacher.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TeacherSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TranfereeSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Transferee.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TypeOfStudent.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.User_Form.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.UserSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSection.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSectionSetting.resources
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+E:\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.exe
+E:\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.pdb
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.BackSubject.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Enrollment.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Forgot_Password.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Form1.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Home.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.LogIn.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanent.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanentrecords.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.PermanentSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Properties.Resources.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Requirements.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.RequirementsSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Sectioning.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SetioningSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Student.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentRequirement.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Subject.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SubjectSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Teacher.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TeacherSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TranfereeSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Transferee.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TypeOfStudent.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.User_Form.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.UserSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSection.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSectionSetting.resources
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.exe
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.pdb
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.BackSubject.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Enrollment.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Forgot_Password.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Form1.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Home.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.LogIn.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanent.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanentrecords.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.PermanentSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Properties.Resources.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Requirements.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.RequirementsSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Sectioning.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SetioningSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Student.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentRequirement.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Subject.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SubjectSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Teacher.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TeacherSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TranfereeSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Transferee.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TypeOfStudent.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.User_Form.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.UserSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSection.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSectionSetting.resources
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LogIn.cs\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.student_Information.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.exe
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.pdb
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.BackSubject.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Enrollment.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Forgot_Password.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Form1.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Home.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.LogIn.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanent.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanentrecords.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.PermanentSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Properties.Resources.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Requirements.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.RequirementsSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Sectioning.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SetioningSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.student_Information.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Student.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentRequirement.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Subject.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SubjectSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Teacher.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TeacherSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TranfereeSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Transferee.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TypeOfStudent.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.User_Form.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.UserSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSection.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSectionSetting.resources
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alwin\Desktop\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alwin\Desktop\School\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+C:\Users\Alwin\Desktop\School\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.exe
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\bin\Debug\LOG_IN.CS.pdb
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.BackSubject.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Enrollment.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Forgot_Password.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Form1.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Home.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.LogIn.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanent.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Permanentrecords.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.PermanentSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Properties.Resources.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Requirements.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.RequirementsSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Sectioning.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SetioningSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.student_Information.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Student.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentRequirement.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.StudentSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Subject.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.SubjectSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Teacher.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TeacherSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TranfereeSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.Transferee.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.TypeOfStudent.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.User_Form.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.UserSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSection.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.YearSectionSetting.resources
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Thesis namin lahat\arnold,alwin,mutia\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\+++++backup++\dELmaR\my installer\ccccc\Thesis namin lahat\Rosadeño\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+D:\+++++backup++\dELmaR\my installer\ccccc\Thesis namin lahat\Rosadeño\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+C:\Users\CAVALIERS\Desktop\THESIS\Thesis namin lahat\Rosadeño\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+C:\Users\CAVALIERS\Desktop\THESIS\Thesis namin lahat\Rosadeño\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
+D:\AAA\MY IMPORTANT DOCS\THESIS\Thesis namin lahat\Rosadeño\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.exe
+D:\AAA\MY IMPORTANT DOCS\THESIS\Thesis namin lahat\Rosadeño\LOG_IN.CS\LOG_IN.CS\obj\x86\Debug\LOG_IN.CS.pdb
